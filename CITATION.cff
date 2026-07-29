@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the manuscript listed under
+  preferred-citation rather than the software itself.
+title: >-
+  structural-addresses: reference implementation and reproducibility companion
+  for "Structural Addresses: Continuous Proximity, Discrete Membership, and
+  Compatible Markers in Inheritance Systems"
+abstract: >-
+  Lightweight reproducibility companion reproducing the computational claims of
+  the methodological note: the detuned Ramanujan 1/pi family, the beta/gamma
+  family J(s) = Gamma(s+1)^2/Gamma(2s+2), a four-state deterministic
+  inheritance control demonstrating that closure and separation are independent
+  marker properties, and both manuscript figures.
+type: software
+authors:
+  - family-names: De Jesús
+    given-names: Elias
+    orcid: https://orcid.org/0009-0007-0190-9143
+    email: dejesuselias10@gmail.com
+    affiliation: Independent Researcher
+year: 2026
+version: "1.0.0"
+date-released: "2026-07-01"
+license: MIT
+license-url: https://opensource.org/licenses/MIT
+repository-code: "TODO"
+url: "TODO"
+keywords:
+  - structural signature
+  - period map
+  - local embedding
+  - factor map
+  - lumpability
+  - hypergeometric function
+  - gamma-value periods
+  - complex multiplication
+  - coarse-graining
+  - reproducibility
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21263921
+    description: Concept DOI for all versions of the manuscript record
+  - type: doi
+    value: 10.5281/zenodo.21297926
+    description: DOI of the current archived manuscript version
+preferred-citation:
+  type: article
+  title: >-
+    Structural Addresses: Continuous Proximity, Discrete Membership,
+    and Compatible Markers in Inheritance Systems: A Methodological
+    Note with Hypergeometric, Gamma–Period, and Finite-State Controls
+  authors:
+    - family-names: De Jesús
+      given-names: Elias
+      orcid: https://orcid.org/0009-0007-0190-9143
+  year: 2026
+  doi: 10.5281/zenodo.21297926
+  url: https://doi.org/10.5281/zenodo.21297926
